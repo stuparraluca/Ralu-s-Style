@@ -1,0 +1,10 @@
+{
+  "name": "Ralu Balu",
+  "short_name": "Ra",
+  "theme_color": "#5aa897",
+  "background_color": "#206a5d",
+  "display": "fullScreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
